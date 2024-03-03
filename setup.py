@@ -8,5 +8,3 @@ setup(
     packages=find_packages()
 )
 
-git config --global user.email "adithmenon.m@gmail.com"
-  git config --global user.name "AdithMenon"
